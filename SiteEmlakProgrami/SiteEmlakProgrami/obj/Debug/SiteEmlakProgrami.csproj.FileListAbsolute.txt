@@ -1,0 +1,11 @@
+C:\Users\MUHAMMED\Desktop\AlgoritmaTasarımıC#\SiteEmlakProgrami\SiteEmlakProgrami\bin\Debug\SiteEmlakProgrami.exe.config
+C:\Users\MUHAMMED\Desktop\AlgoritmaTasarımıC#\SiteEmlakProgrami\SiteEmlakProgrami\bin\Debug\SiteEmlakProgrami.exe
+C:\Users\MUHAMMED\Desktop\AlgoritmaTasarımıC#\SiteEmlakProgrami\SiteEmlakProgrami\bin\Debug\SiteEmlakProgrami.pdb
+C:\Users\MUHAMMED\Desktop\AlgoritmaTasarımıC#\SiteEmlakProgrami\SiteEmlakProgrami\obj\Debug\SiteEmlakProgrami.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\Desktop\AlgoritmaTasarımıC#\SiteEmlakProgrami\SiteEmlakProgrami\obj\Debug\SiteEmlakProgrami.Form1.resources
+C:\Users\MUHAMMED\Desktop\AlgoritmaTasarımıC#\SiteEmlakProgrami\SiteEmlakProgrami\obj\Debug\SiteEmlakProgrami.Properties.Resources.resources
+C:\Users\MUHAMMED\Desktop\AlgoritmaTasarımıC#\SiteEmlakProgrami\SiteEmlakProgrami\obj\Debug\SiteEmlakProgrami.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\Desktop\AlgoritmaTasarımıC#\SiteEmlakProgrami\SiteEmlakProgrami\obj\Debug\SiteEmlakProgrami.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED\Desktop\AlgoritmaTasarımıC#\SiteEmlakProgrami\SiteEmlakProgrami\obj\Debug\SiteEmlakProgrami.exe
+C:\Users\MUHAMMED\Desktop\AlgoritmaTasarımıC#\SiteEmlakProgrami\SiteEmlakProgrami\obj\Debug\SiteEmlakProgrami.pdb
+C:\Users\MUHAMMED\Desktop\AlgoritmaTasarımıC#\SiteEmlakProgrami\SiteEmlakProgrami\obj\Debug\SiteEmlakProgrami.Form2.resources
