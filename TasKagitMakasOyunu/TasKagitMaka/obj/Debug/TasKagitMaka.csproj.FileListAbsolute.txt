@@ -1,0 +1,10 @@
+C:\Users\MUHAMMED\source\repos\TasKagitMaka\TasKagitMaka\bin\Debug\TasKagitMaka.exe.config
+C:\Users\MUHAMMED\source\repos\TasKagitMaka\TasKagitMaka\bin\Debug\TasKagitMaka.exe
+C:\Users\MUHAMMED\source\repos\TasKagitMaka\TasKagitMaka\bin\Debug\TasKagitMaka.pdb
+C:\Users\MUHAMMED\source\repos\TasKagitMaka\TasKagitMaka\obj\Debug\TasKagitMaka.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\TasKagitMaka\TasKagitMaka\obj\Debug\TasKagitMaka.Form1.resources
+C:\Users\MUHAMMED\source\repos\TasKagitMaka\TasKagitMaka\obj\Debug\TasKagitMaka.Properties.Resources.resources
+C:\Users\MUHAMMED\source\repos\TasKagitMaka\TasKagitMaka\obj\Debug\TasKagitMaka.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\source\repos\TasKagitMaka\TasKagitMaka\obj\Debug\TasKagitMaka.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED\source\repos\TasKagitMaka\TasKagitMaka\obj\Debug\TasKagitMaka.exe
+C:\Users\MUHAMMED\source\repos\TasKagitMaka\TasKagitMaka\obj\Debug\TasKagitMaka.pdb
