@@ -1,0 +1,11 @@
+C:\Users\MUHAMMED\source\repos\pomodro\pomodro\bin\Debug\pomodro.exe.config
+C:\Users\MUHAMMED\source\repos\pomodro\pomodro\bin\Debug\pomodro.exe
+C:\Users\MUHAMMED\source\repos\pomodro\pomodro\bin\Debug\pomodro.pdb
+C:\Users\MUHAMMED\source\repos\pomodro\pomodro\obj\Debug\pomodro.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\pomodro\pomodro\obj\Debug\pomodro.Form1.resources
+C:\Users\MUHAMMED\source\repos\pomodro\pomodro\obj\Debug\pomodro.Form2.resources
+C:\Users\MUHAMMED\source\repos\pomodro\pomodro\obj\Debug\pomodro.Properties.Resources.resources
+C:\Users\MUHAMMED\source\repos\pomodro\pomodro\obj\Debug\pomodro.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\source\repos\pomodro\pomodro\obj\Debug\pomodro.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED\source\repos\pomodro\pomodro\obj\Debug\pomodro.exe
+C:\Users\MUHAMMED\source\repos\pomodro\pomodro\obj\Debug\pomodro.pdb
