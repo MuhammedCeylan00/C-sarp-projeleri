@@ -1,0 +1,461 @@
+﻿
+namespace PizzaDukkani
+{
+    partial class Masalar
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Masalar));
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.radioButtonMenu1 = new System.Windows.Forms.RadioButton();
+            this.radioButtonMenu2 = new System.Windows.Forms.RadioButton();
+            this.radioButtonMenu3 = new System.Windows.Forms.RadioButton();
+            this.radioButtonMenu4 = new System.Windows.Forms.RadioButton();
+            this.radioButtonMenu5 = new System.Windows.Forms.RadioButton();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.comboBoxMasa = new System.Windows.Forms.ComboBox();
+            this.textMenu = new System.Windows.Forms.TextBox();
+            this.textSayi = new System.Windows.Forms.TextBox();
+            this.textUcret = new System.Windows.Forms.TextBox();
+            this.listView1 = new System.Windows.Forms.ListView();
+            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.button1 = new System.Windows.Forms.Button();
+            this.comboBoxHesapOde = new System.Windows.Forms.ComboBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(28, 40);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(232, 144);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Location = new System.Drawing.Point(297, 40);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(246, 144);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 1;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Location = new System.Drawing.Point(581, 40);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(249, 144);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 2;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(870, 40);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(245, 144);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 3;
+            this.pictureBox4.TabStop = false;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Location = new System.Drawing.Point(1160, 40);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(247, 144);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 4;
+            this.pictureBox5.TabStop = false;
+            // 
+            // radioButtonMenu1
+            // 
+            this.radioButtonMenu1.AutoSize = true;
+            this.radioButtonMenu1.CausesValidation = false;
+            this.radioButtonMenu1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.radioButtonMenu1.Location = new System.Drawing.Point(58, 190);
+            this.radioButtonMenu1.Name = "radioButtonMenu1";
+            this.radioButtonMenu1.Size = new System.Drawing.Size(112, 29);
+            this.radioButtonMenu1.TabIndex = 10;
+            this.radioButtonMenu1.Text = "MENÜ-1";
+            this.radioButtonMenu1.UseVisualStyleBackColor = true;
+            this.radioButtonMenu1.CheckedChanged += new System.EventHandler(this.radioButtonMenu1_CheckedChanged);
+            // 
+            // radioButtonMenu2
+            // 
+            this.radioButtonMenu2.AutoSize = true;
+            this.radioButtonMenu2.CausesValidation = false;
+            this.radioButtonMenu2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.radioButtonMenu2.Location = new System.Drawing.Point(337, 190);
+            this.radioButtonMenu2.Name = "radioButtonMenu2";
+            this.radioButtonMenu2.Size = new System.Drawing.Size(112, 29);
+            this.radioButtonMenu2.TabIndex = 11;
+            this.radioButtonMenu2.Text = "MENÜ-2";
+            this.radioButtonMenu2.UseVisualStyleBackColor = true;
+            this.radioButtonMenu2.CheckedChanged += new System.EventHandler(this.radioButtonMenu2_CheckedChanged);
+            // 
+            // radioButtonMenu3
+            // 
+            this.radioButtonMenu3.AutoSize = true;
+            this.radioButtonMenu3.CausesValidation = false;
+            this.radioButtonMenu3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.radioButtonMenu3.Location = new System.Drawing.Point(619, 190);
+            this.radioButtonMenu3.Name = "radioButtonMenu3";
+            this.radioButtonMenu3.Size = new System.Drawing.Size(112, 29);
+            this.radioButtonMenu3.TabIndex = 12;
+            this.radioButtonMenu3.Text = "MENÜ-3";
+            this.radioButtonMenu3.UseVisualStyleBackColor = true;
+            this.radioButtonMenu3.CheckedChanged += new System.EventHandler(this.radioButtonMenu3_CheckedChanged);
+            // 
+            // radioButtonMenu4
+            // 
+            this.radioButtonMenu4.AutoSize = true;
+            this.radioButtonMenu4.CausesValidation = false;
+            this.radioButtonMenu4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.radioButtonMenu4.Location = new System.Drawing.Point(923, 190);
+            this.radioButtonMenu4.Name = "radioButtonMenu4";
+            this.radioButtonMenu4.Size = new System.Drawing.Size(112, 29);
+            this.radioButtonMenu4.TabIndex = 13;
+            this.radioButtonMenu4.Text = "MENÜ-4";
+            this.radioButtonMenu4.UseVisualStyleBackColor = true;
+            this.radioButtonMenu4.CheckedChanged += new System.EventHandler(this.radioButtonMenu4_CheckedChanged);
+            // 
+            // radioButtonMenu5
+            // 
+            this.radioButtonMenu5.AutoSize = true;
+            this.radioButtonMenu5.CausesValidation = false;
+            this.radioButtonMenu5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.radioButtonMenu5.Location = new System.Drawing.Point(1212, 190);
+            this.radioButtonMenu5.Name = "radioButtonMenu5";
+            this.radioButtonMenu5.Size = new System.Drawing.Size(112, 29);
+            this.radioButtonMenu5.TabIndex = 14;
+            this.radioButtonMenu5.Text = "MENÜ-5";
+            this.radioButtonMenu5.UseVisualStyleBackColor = true;
+            this.radioButtonMenu5.CheckedChanged += new System.EventHandler(this.radioButtonMenu5_CheckedChanged);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold);
+            this.label1.Location = new System.Drawing.Point(34, 371);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(103, 31);
+            this.label1.TabIndex = 15;
+            this.label1.Text = "MASA:";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold);
+            this.label2.Location = new System.Drawing.Point(34, 497);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(89, 31);
+            this.label2.TabIndex = 16;
+            this.label2.Text = "SAYI:";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold);
+            this.label3.Location = new System.Drawing.Point(34, 434);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(107, 31);
+            this.label3.TabIndex = 17;
+            this.label3.Text = "MENÜ:";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold);
+            this.label4.Location = new System.Drawing.Point(22, 564);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(123, 31);
+            this.label4.TabIndex = 18;
+            this.label4.Text = "ÜCRET:";
+            // 
+            // comboBoxMasa
+            // 
+            this.comboBoxMasa.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.comboBoxMasa.FormattingEnabled = true;
+            this.comboBoxMasa.Items.AddRange(new object[] {
+            "MASA-1",
+            "MASA-2",
+            "MASA-3",
+            "MASA-4",
+            "MASA-5",
+            "MASA-6",
+            "MASA-7",
+            "MASA-8",
+            "MASA-9",
+            "MASA-10"});
+            this.comboBoxMasa.Location = new System.Drawing.Point(143, 371);
+            this.comboBoxMasa.Name = "comboBoxMasa";
+            this.comboBoxMasa.Size = new System.Drawing.Size(121, 33);
+            this.comboBoxMasa.TabIndex = 19;
+            // 
+            // textMenu
+            // 
+            this.textMenu.Enabled = false;
+            this.textMenu.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.textMenu.Location = new System.Drawing.Point(143, 434);
+            this.textMenu.Name = "textMenu";
+            this.textMenu.Size = new System.Drawing.Size(121, 30);
+            this.textMenu.TabIndex = 20;
+            // 
+            // textSayi
+            // 
+            this.textSayi.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.textSayi.Location = new System.Drawing.Point(143, 498);
+            this.textSayi.Name = "textSayi";
+            this.textSayi.Size = new System.Drawing.Size(121, 30);
+            this.textSayi.TabIndex = 21;
+            this.textSayi.TextChanged += new System.EventHandler(this.textSayi_TextChanged);
+            // 
+            // textUcret
+            // 
+            this.textUcret.Enabled = false;
+            this.textUcret.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.textUcret.Location = new System.Drawing.Point(143, 567);
+            this.textUcret.Name = "textUcret";
+            this.textUcret.Size = new System.Drawing.Size(121, 30);
+            this.textUcret.TabIndex = 22;
+            this.textUcret.TextChanged += new System.EventHandler(this.textUcret_TextChanged);
+            // 
+            // listView1
+            // 
+            this.listView1.BackColor = System.Drawing.Color.Black;
+            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.columnHeader1,
+            this.columnHeader2,
+            this.columnHeader3,
+            this.columnHeader4,
+            this.columnHeader5});
+            this.listView1.ForeColor = System.Drawing.Color.White;
+            this.listView1.HideSelection = false;
+            this.listView1.Location = new System.Drawing.Point(531, 400);
+            this.listView1.Name = "listView1";
+            this.listView1.Size = new System.Drawing.Size(691, 399);
+            this.listView1.TabIndex = 23;
+            this.listView1.UseCompatibleStateImageBehavior = false;
+            this.listView1.View = System.Windows.Forms.View.Details;
+            this.listView1.SelectedIndexChanged += new System.EventHandler(this.listView1_SelectedIndexChanged);
+            // 
+            // columnHeader1
+            // 
+            this.columnHeader1.Text = "MASA";
+            this.columnHeader1.Width = 149;
+            // 
+            // columnHeader2
+            // 
+            this.columnHeader2.Text = "MENÜ";
+            this.columnHeader2.Width = 125;
+            // 
+            // columnHeader3
+            // 
+            this.columnHeader3.Text = "SAYI";
+            this.columnHeader3.Width = 119;
+            // 
+            // columnHeader4
+            // 
+            this.columnHeader4.Text = "ÜCRET";
+            this.columnHeader4.Width = 111;
+            // 
+            // columnHeader5
+            // 
+            this.columnHeader5.Text = "TARİH";
+            this.columnHeader5.Width = 189;
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Black;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(143, 626);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(121, 48);
+            this.button1.TabIndex = 24;
+            this.button1.Text = "KAYDET";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // comboBoxHesapOde
+            // 
+            this.comboBoxHesapOde.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.comboBoxHesapOde.FormattingEnabled = true;
+            this.comboBoxHesapOde.Items.AddRange(new object[] {
+            "MASA-1",
+            "MASA-2",
+            "MASA-3",
+            "MASA-4",
+            "MASA-5",
+            "MASA-6",
+            "MASA-7",
+            "MASA-8",
+            "MASA-9",
+            "MASA-10"});
+            this.comboBoxHesapOde.Location = new System.Drawing.Point(682, 348);
+            this.comboBoxHesapOde.Name = "comboBoxHesapOde";
+            this.comboBoxHesapOde.Size = new System.Drawing.Size(121, 33);
+            this.comboBoxHesapOde.TabIndex = 26;
+            this.comboBoxHesapOde.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold);
+            this.label5.Location = new System.Drawing.Point(543, 349);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(103, 31);
+            this.label5.TabIndex = 27;
+            this.label5.Text = "MASA:";
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.Black;
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.button2.ForeColor = System.Drawing.Color.White;
+            this.button2.Location = new System.Drawing.Point(855, 332);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(145, 62);
+            this.button2.TabIndex = 28;
+            this.button2.Text = "HESAP ÖDENDİ";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.Red;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.button3.ForeColor = System.Drawing.Color.White;
+            this.button3.Location = new System.Drawing.Point(1278, 737);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(145, 62);
+            this.button3.TabIndex = 29;
+            this.button3.Text = "ÇIKIŞ";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // Masalar
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.ClientSize = new System.Drawing.Size(1435, 811);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.comboBoxHesapOde);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.listView1);
+            this.Controls.Add(this.textUcret);
+            this.Controls.Add(this.textSayi);
+            this.Controls.Add(this.textMenu);
+            this.Controls.Add(this.comboBoxMasa);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.radioButtonMenu5);
+            this.Controls.Add(this.radioButtonMenu4);
+            this.Controls.Add(this.radioButtonMenu3);
+            this.Controls.Add(this.radioButtonMenu2);
+            this.Controls.Add(this.radioButtonMenu1);
+            this.Controls.Add(this.pictureBox5);
+            this.Controls.Add(this.pictureBox4);
+            this.Controls.Add(this.pictureBox3);
+            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.pictureBox1);
+            this.Name = "Masalar";
+            this.Text = "MASALAR";
+            this.Load += new System.EventHandler(this.Masalar_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.PictureBox pictureBox5;
+        private System.Windows.Forms.RadioButton radioButtonMenu1;
+        private System.Windows.Forms.RadioButton radioButtonMenu2;
+        private System.Windows.Forms.RadioButton radioButtonMenu3;
+        private System.Windows.Forms.RadioButton radioButtonMenu4;
+        private System.Windows.Forms.RadioButton radioButtonMenu5;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.ComboBox comboBoxMasa;
+        private System.Windows.Forms.TextBox textMenu;
+        private System.Windows.Forms.TextBox textSayi;
+        private System.Windows.Forms.TextBox textUcret;
+        private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.ColumnHeader columnHeader1;
+        private System.Windows.Forms.ColumnHeader columnHeader2;
+        private System.Windows.Forms.ColumnHeader columnHeader3;
+        private System.Windows.Forms.ColumnHeader columnHeader4;
+        private System.Windows.Forms.ColumnHeader columnHeader5;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ComboBox comboBoxHesapOde;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+    }
+}

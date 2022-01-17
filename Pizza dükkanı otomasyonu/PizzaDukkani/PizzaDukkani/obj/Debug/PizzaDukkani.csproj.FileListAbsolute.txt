@@ -1,0 +1,13 @@
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\bin\Debug\PizzaDukkani.exe.config
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\bin\Debug\PizzaDukkani.exe
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\bin\Debug\PizzaDukkani.pdb
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\obj\Debug\PizzaDukkani.csproj.AssemblyReference.cache
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\obj\Debug\PizzaDukkani.Properties.Resources.resources
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\obj\Debug\PizzaDukkani.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\obj\Debug\PizzaDukkani.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\obj\Debug\PizzaDukkani.exe
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\obj\Debug\PizzaDukkani.pdb
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\obj\Debug\PizzaDukkani.AdminGiris.resources
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\obj\Debug\PizzaDukkani.Anasayfa.resources
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\obj\Debug\PizzaDukkani.Masalar.resources
+C:\Users\MUHAMMED\Desktop\PizzaOtomasyonu\PizzaDukkani\PizzaDukkani\obj\Debug\PizzaDukkani.Siparisler.resources
